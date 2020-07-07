@@ -1,0 +1,3 @@
+- Make git repo
+- Publish git repo
+- Pull course contents
