@@ -1,0 +1,9 @@
+Script started on 2020-08-07 10:12:03+03:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="101" LINES="56"]
+]0;lasse@peruna: ~/Dropbox/Kurssit/devops/part1[01;32mlasse@peruna[00m:[01;34m~/Dropbox/Kurssit/devops/part1[00m$ sudo docker run -it devopsdockerun/pull_exercise[C[1P/pull_exerciseh/pull_exercise[C[C[C[C[C[1P[1P[1P[1P[1P
+[1G[0JGive me the password: [23Gbasics
+You found the correct password. Secret message is:
+"This is the secret message"
+
+]0;lasse@peruna: ~/Dropbox/Kurssit/devops/part1[01;32mlasse@peruna[00m:[01;34m~/Dropbox/Kurssit/devops/part1[00m$ exit
+
+Script done on 2020-08-07 10:13:19+03:00 [COMMAND_EXIT_CODE="0"]
